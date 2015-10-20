@@ -1,5 +1,7 @@
 # Collection of EVE API Tools
 This is a collection of tools we designed for use with EVE Online and its API
 
-All of our tools are released into the public domain as-is, with no warranty 
-and no liability to its contributors. See LICENSE for further details.
+In the perfect world, we would release ths software into the public domain, but this does not work internationally, and is illegal in some places. Therefore, all of our tools are released under the MIT license as it is the least restrictive. See LICENSE for further details.
+
+mlcheck.py -- This is a very simple tool designed to verify that all members on a mailing list are in a specific alliance. It was written in python using the evelink api tool https://github.com/eve-val/evelink (MIT license)
+
